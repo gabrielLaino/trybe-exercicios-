@@ -1,3 +1,3 @@
-# Repositorio dos exercicios da trybe
+# Meu repositório de exercícios 
 
-Para guardar todos os exercicios feitos por mim na trybe.
+Para guardar todos os exercícios feitos por mim na trybe.
