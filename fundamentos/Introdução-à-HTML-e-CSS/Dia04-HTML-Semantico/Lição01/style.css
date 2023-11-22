@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+  }
+
+  .first {
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    top:130px;
+    right: 45%;
+    
+  }
+
+  .second {
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    position: absolute;
+    top: 180px;
+    width: 350px;
+    left: 30.5%;
+    text-align: center;
+
+  }
+
+  .third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 350px;
+    position: absolute;
+    top: 180px;
+    width: 350px;
+    right: 31.5%;
+  }
+
+  .equipes li{
+    display: inline-block;
+  }
+
+  .equipes{
+    width: 100%;
+    height: 200px;
+    
+  }
+
+  .premiacao li{
+    list-style: none;
+    display: inline;
+  }
+
+  h3{
+    text-align: center;
+  }
+
+  .premiacao ul{
+    text-align: center;
+  }
